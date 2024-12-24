@@ -23,13 +23,33 @@
 
 ## Tech Stack
 
-- **Frontend**: React.js, Bootstrap
-- **Backend**: Spring Boot
-- **Database**: MySQL
-- **Authentication**: JWT & Spring Security
-- **Email Service**: JavaMail Sender
-- **Payment Gateway**: Stripe / PayPal (depending on your integration)
-- **Code Simplification**: Lombok (for reducing boilerplate code in Java)
+**Frontend:**
+
+* React.js
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* Bootstrap (for responsive design)
+* Redux (for state management) - Optional, depending on your project's complexity
+* Axios/Fetch API (for making API requests)
+
+**Backend:**
+
+* Spring Boot
+* Java (with Spring Framework)
+* Spring Security (for authentication and authorization)
+* Spring Data JPA (for database interactions)
+* MySQL (or other relational database)
+* RESTful APIs (for communication between frontend and backend)
+* JWT (for token-based authentication)
+* JavaMail API (for email notifications)
+* Lombok (for reducing boilerplate code) - Optional, depending on your preference
+
+**Other Technologies**
+
+* Agile methodologies for development
+* Git for version control
+
 
 ## Lombok
 
